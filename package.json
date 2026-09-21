@@ -1,7 +1,7 @@
 {
   "name": "enigma",
   "description": "Enigma Emulator",
-  "homepage": "http://igoresso.github.io/enigma",
+  "homepage": "http://iggstatic.github.io/enigma",
   "version": "1.0.1",
   "author": "Igor Tyshchenko",
   "private": true,

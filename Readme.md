@@ -4,7 +4,7 @@ This is a modern web version of one of the most iconic cipher machines.
 
 ## Usage
 
-[Use it here](https://igoresso.github.io/enigma/)
+[Use it here](https://iggstatic.github.io/enigma/)
 
 ### Rotors
 
